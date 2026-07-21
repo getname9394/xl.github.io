@@ -10,7 +10,7 @@
       <description>ddd scaffold lite ddd jdk 21 by xul</description>
     </archetype>
     <archetype>
-      <groupId>cn.xl</groupId>
+      <groupId>cn.xul</groupId>
       <artifactId>ai-agent-scaffold-lite-study-archetype</artifactId>
       <version>1.1</version>
       <description>Parent pom providing dependency and plugin management for applications built with Maven</description>
